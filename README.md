@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <h1 align="center">Mamunur Rashid</h1>
 <h4 align="center"> Continuous Learner • Outsider Observer </h4>
 <p align="center"> <tt><a href="https://mamunur-rashid.github.io/">https://mamunur-rashid.github.io//</a></tt></a> </p>
