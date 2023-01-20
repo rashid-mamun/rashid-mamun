@@ -3,13 +3,13 @@
 <p align="center"> <tt><a href="https://mamunur-rashid.github.io/">https://mamunur-rashid.github.io//</a></tt></a> </p>
 
 
-## Hey there 👋
+## Assalamualaikum
 <div>
 <div>
 <img align="right" alt="GIF" src="img/programmer.gif?raw=true" width="40%" />
 </div>
 <p style="text-align:justify">
-I am <a href="https://www.mamunurrashid.me/">Mamunur Rashid</a> from Bangladesh 🇧🇩, currently pursuing my bachelor's degree 👨🏽‍🎓 focused on computer science and engineering 🚀 from Mawlana Bhashani Science and Technology University. I am a curious, enthusiastic learner most of the time and an utter computer nerd. I have a passion 💝 for learning and sharing my knowledge 💪 with others as public as possible. I contribute to things as I come across issues ⚒️ that I think other people might struggle with 🏋️‍♂️.
+I am <a href="https://www.mamunurrashid.me/">Mamunur Rashid</a> from Bangladesh, currently pursuing my bachelor's degree 👨🏽‍🎓 focused on computer science and engineering 🚀 from Mawlana Bhashani Science and Technology University. I am a curious, enthusiastic learner most of the time and an utter computer nerd. I have a passion 💝 for learning and sharing my knowledge 💪 with others as public as possible. I contribute to things as I come across issues ⚒️ that I think other people might struggle with 🏋️‍♂️.
 
 I read books and love to 📚. I have interest in philosophy, history, politics, literature, technology, and psychology. I think myself a stoic observer of the universe 🔭.
 
@@ -83,17 +83,19 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 
 
 
-### Technologies & Tools
 
-<code><img src="https://img.shields.io/badge/c-00599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/github-121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/apache-D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/github%20actions-2671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></code>
+## I work with
+
+🎭Languages:
+<p align="center">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img src="https://img.shields.io/badge/java%203%20-%23417FB0.svg?&style=for-the-badge&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/++%20-%231572B6.svg?&style=for-the-badge&logo=c&logoColor=white"> 
+</p>
+
+🎇Utilities:
+<p align="center">
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=red"/> 
+</p>
+
 <!--<code><img src="https://img.shields.io/badge/docker-0db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>-->
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashid-mamun&show_icons=true&hide=blade&locale=en&layout=compact" alt="rashid-mamun" />
