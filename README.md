@@ -22,8 +22,6 @@ I read books and love to 📚. I have interest in philosophy, history, politics,
 - 🌱 I’m currently learning ReactJs and NodeJs;
 - 💬 Ask me about anything, I’d love to hear from you;
 - 📫 Reach me via [email](mailto:opendoor.mamuncse17@gmail.com);
-- 😄 Pronouns: He, His;
-- ⚡ Fun fact: I'm actually an alien (🤫 nobody knows that but me);
 - 💪 I'm a fast learner looking for interesting career opportunities, skills and growth;
 - 🪐 My activities are much beyond my stream of education and profession;
 
