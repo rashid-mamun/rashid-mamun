@@ -42,7 +42,7 @@ Distributed systems design · Cloud-native architecture on AWS · Go for backend
 
 ## 📫 Connect
 📧 mamuncse17@gmail.com  
-💼 linkedin.com/in/mamunur-rashid  
+💼 linkedin.com/in/al-mamunur-rashid  
 🌐 rashidmamun.com  
 💻 leetcode.com/Mamunur016  |  hackerrank.com/Mamunur016
 
