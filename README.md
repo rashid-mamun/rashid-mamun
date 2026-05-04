@@ -40,11 +40,17 @@ that power real-time flight search, booking, and pricing for thousands of daily 
 ## 🌱 Currently Deepening
 Distributed systems design · Cloud-native architecture on AWS · Go for backend services
 
-## 📫 Connect
-📧 mamuncse17@gmail.com  
-💼 linkedin.com/in/al-mamunur-rashid  
-🌐 rashidmamun.com  
-💻 leetcode.com/Mamunur016  |  hackerrank.com/Mamunur016
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:mamuncse17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mamunur-rashid-1b9345197/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rashid-mamun"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/Mamunur016/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/Mamunur016"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
