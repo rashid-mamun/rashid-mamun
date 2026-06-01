@@ -39,11 +39,11 @@ Backend Engineer with **3+ years** building production-grade systems at scale. C
 - Built multi-airline booking engine — 20% revenue growth, 15% fare reduction
 - Redis + RabbitMQ pipelines cutting server failure rates by ~40%
 
-**ChillyPOS** — Backend Engineer *(Apr 2025 – Mar 2026)*
+**ChillyPOS** — Backend Developer *(Apr 2025 – Mar 2026)*
 - Built multi-tenant POS backend from scratch — 100+ paying restaurant clients
 - 40+ REST APIs, BullMQ processing 500+ jobs/day, WebSocket real-time tracking
 
-**HalalExplore** — Backend Developer *(Jul 2023 – Jan 2024)*
+**HalalExplore** — Backend Developer *(Jul 2023 – Feb 2024)*
 - Halal-compliant travel platform — Ratehawk & Hotelbeds API integration
 - ~90% reduction in manual booking errors via automated workflows
 
